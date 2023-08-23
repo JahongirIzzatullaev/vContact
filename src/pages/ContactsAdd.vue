@@ -68,7 +68,7 @@ export default defineComponent({
     const appendContact = (): void => {
       loading.value = true;
       setTimeout(() => {
-        addContact(contact).th
+        addContact(contact)
         loading.value = false;
         router.push({name: 'list'})
       }, 500);

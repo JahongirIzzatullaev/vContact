@@ -17,7 +17,6 @@ export const useAuthStore = defineStore('auth', () => {
       localStorage.setItem('token', Date.now())
       return true
     }
-    console.log('123');
     return false
   }
 

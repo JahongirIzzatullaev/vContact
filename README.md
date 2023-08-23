@@ -2,7 +2,7 @@
 
 vContact
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1aabf65f-0666-4a8d-a07e-fe3c7b4f5972/deploy-status)](https://app.netlify.com/sites/resplendent-narwhal-291736/deploys)
+[Live Demo](https://resplendent-narwhal-291736.netlify.app/)
 
 ## Install the dependencies
 ```bash
